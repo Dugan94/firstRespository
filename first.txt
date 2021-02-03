@@ -1,0 +1,9 @@
+Welcome to my first respository! 
+
+The project itself is finished but I will continue to add and change things. 
+There are 3 files that make up my webpage:
+-index.html
+-aboutus.html
+-contactus.html
+
+----------------Below this line will be my logs in what I have changed etc.----------------------------
